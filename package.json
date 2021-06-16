@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/jsonRUHLS/vanilla-state/issues"
   },
-  "homepage": "https://github.com/jsonRUHLS/vanilla-state#readme"
+  "homepage": "https://github.com/jsonRUHLS/vanilla-state#readme",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
 }
